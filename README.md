@@ -14,6 +14,6 @@ This bot can work on any EVM chais.
 
 Ethereum Mainnet, Binance Smart Chain, Avalanche C-Chain, Fantom Opera, Polygon, Polygon zkEVM, Cronos, zkCronos, Arbitrum One, Klaytn Mainnet Cypress Harmony Minnet Hard, Aurora Mainnet, Huobi ECO Chain MainNet, Celo Mainnet, Metis Andromeda MainNet, Optimism, Gnosis Cahin formerly xDai, Moonriver, Theta Mainnet, Telos EVM Mainnet, Fusion Mainnet, Moonbeam, RSK Mainnet, IoTeX Network Mainnet .....
 
-## How to contact withe me
+## How to contact with me
 
 [Telegram](https://t.me/midaBricoll) | [X](https://x.com/dieharye) 
