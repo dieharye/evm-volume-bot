@@ -2,9 +2,9 @@
 
 ## How to make it?
 
-This it the volume bot that can work on EVM chains
+This is the volume bot that can work on EVM chains
 
-Since the high transcation fee on ethereum mainnet, people seldom try to such a volume bot.
+Since the high transcation fee on ethereum mainnet, people seldom try such a volume bot.
 
 As the Ethereum Layer 2 chains appear, it became possible to run bot to significantly increase the volum of the bot.
 
